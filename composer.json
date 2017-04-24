@@ -1,0 +1,20 @@
+{
+  "name": "muplugin/wp-disable-emojis",
+  "type": "wordpress-muplugin",
+  "description": "Disables WP Emoji Settings&Include",
+  "keywords": [
+    "wordpress",
+    "muplugin"
+  ],
+  "authors": [
+    {
+      "name": "Stefan Schwager",
+      "homepage": "http://www.axelspringer.de"
+    }
+  ],
+  "homepage": "https://as-stash.axelspringer.de/projects/WPMUP/repos/wp-disable-emojis",
+  "license": "proprietary",
+  "extra": {
+    "installer-name": "wp-disable-emojis"
+  }
+}
