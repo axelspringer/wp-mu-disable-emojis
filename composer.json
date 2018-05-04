@@ -1,5 +1,5 @@
 {
-  "name": "muplugin/wp-disable-emojis",
+  "name": "axelspringer/wp-mu.disable-emojis",
   "type": "wordpress-muplugin",
   "description": "Disables WP Emoji Settings&Include",
   "keywords": [
@@ -10,11 +10,15 @@
     {
       "name": "Stefan Schwager",
       "homepage": "http://www.axelspringer.de"
+    },
+    {
+      "name": "Mathias Witt",
+      "homepage": "http://www.axelspringer.de"
     }
   ],
-  "homepage": "https://as-stash.axelspringer.de/projects/WPMUP/repos/wp-disable-emojis",
-  "license": "proprietary",
+  "homepage": "https://github.com/axelspringer/wp-mu-disable-emojis",
+  "license": "Apache-2.0",
   "extra": {
-    "installer-name": "wp-disable-emojis"
+    "installer-name": "wp-mu-disable-emojis"
   }
 }
